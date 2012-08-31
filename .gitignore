@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*~
+hasoffers
+config/config.yaml
+Advertiser/*
